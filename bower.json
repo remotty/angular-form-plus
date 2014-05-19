@@ -1,0 +1,26 @@
+{
+  "name": "<%= pkg.name %>",
+  "version": "0.0.1",
+  "homepage": "https://github.com/remotty/angular-form-plus",
+  "authors": [
+    "Chungsub Kim <subicura@subicura.com>"
+  ],
+  "description": "AngularJS directive for extending ng-form. ",
+  "main": "dist/angular-form-plus.min.js",
+  "keywords": [
+    "form",
+    "ngform",
+    "ng-form",
+    "validation",
+    "angular",
+    "angularjs",
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "angular": "~1.2.16"
+  }
+}
