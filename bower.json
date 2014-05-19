@@ -14,6 +14,7 @@
     "validation",
     "angular",
     "angularjs",
+    "angular-form",
     "directive"
   ],
   "license": "MIT",
