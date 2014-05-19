@@ -4,7 +4,30 @@ AngularJS directive for extending ng-form.
 
 ## Getting started
 
+(1) Get angular-form-plus via [Bower](http://bower.io/)
+
+```sh
+$ bower install angular-form-plus
+```
+or add bower.json
+```sh
+$ bower install angular-form-plus --save
+```
+
+(2) add javascript link to html
+
+```html
+<script src="bower_components/angular-form-plus/dist/angular-form-plus.min.js"></script>
 ...
+```
+
+(3) add `'angular-form-plus'` to your main module's list of dependencies
+
+```javascript
+var myApp = angular.module('myApp', ['angular-form-plus']);
+```
+
+(4) enjoy!
 
 ## Quick example
 

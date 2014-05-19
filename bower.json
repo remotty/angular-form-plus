@@ -1,6 +1,6 @@
 {
-  "name": "<%= pkg.name %>",
-  "version": "0.0.1",
+  "name": "angular-form-plus",
+  "version": "0.1.0",
   "homepage": "https://github.com/remotty/angular-form-plus",
   "authors": [
     "Chungsub Kim <subicura@subicura.com>"
