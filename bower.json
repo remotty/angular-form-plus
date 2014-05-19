@@ -5,7 +5,7 @@
   "authors": [
     "Chungsub Kim <subicura@subicura.com>"
   ],
-  "description": "AngularJS directive for extending ng-form. ",
+  "description": "AngularJS directive for extending ng-form.",
   "main": "dist/angular-form-plus.min.js",
   "keywords": [
     "form",
