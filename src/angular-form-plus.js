@@ -46,7 +46,7 @@
              * ex) form.isInvalid(title)
              */
             form.isInvalid = function(model) {
-              return (form.submitted && model.$dirty) && model.$invalid;
+              return form.submitted && model.$invalid;
             };
           }
         };
