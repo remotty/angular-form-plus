@@ -19,10 +19,10 @@
             element.unbind('submit');
             element.bind('submit', function (event) {
               form.submitted = true;
-              scope.$apply(submit);
               if (!scope.$$phase) {
                 scope.$apply();
               }
+              scope.$apply(submit);
             });
 
             /**
